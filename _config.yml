@@ -5,7 +5,7 @@ description: > Wedding of Kaitlin Thaney to David Riordan. This is what happens
 when you let a bunch of nerds run wild together. May 21, 2015 |
 Brooklyn, New York
 baseurl: "/" # the subpath of your site, e.g. /blog/
-url: "http://www.thaneyriordan.com" # the base hostname & protocol for your site
+url: "http://thaneyriordan.com" # the base hostname & protocol for your site
 
 
 # Build settings
