@@ -7,6 +7,8 @@ This is the wedding website of [Kaitlin Thaney](http://kaythaney.com/) and [Davi
  * `git clone git@github.com:thaneyriordan/wedding.git`
 * Install the requisite code
  * `bundle install`
+  * if this fails, you're going to want to install Bundler for Ruby
+   * `sudo gem install bundler`
 
 # Content Updates
 * Homepage text updates at `index.html`
