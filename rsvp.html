@@ -17,13 +17,16 @@ name: rsvp
 
 						<!-- Content -->
 							<div class="content">
-								<form action="https://docs.google.com/forms/d/1Mpa6mIi2UNMp2Uab1FNpMuz7E2HxWOAOni-CXIKCNDw/formResponse" method="POST" id="ss-form" target="_self" onsubmit="">
+								<script type="text/javascript">var submitted=false;</script>
+<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {window.location='http://thaneyriordan.com';}"></iframe>
+<form action="https://docs.google.com/forms/d/1Mpa6mIi2UNMp2Uab1FNpMuz7E2HxWOAOni-CXIKCNDw/formResponse" method="post" target="hidden_iframe" onsubmit="submitted=true;">
+
 									<div class="row half collapse-at-2">
-										<div class="6u">
-											<input type="text" name="entry.1376381667" placeholder="First Name" />
+										<div class="6u" aria-required="true">
+											<input type="text" name="entry.1376381667" placeholder="First Name" required />
 										</div>
-										<div class="6u">
-											<input type="text" name="entry.302357642" placeholder="Last Name" />
+										<div class="6u" >
+											<input type="text" name="entry.302357642" placeholder="Last Name" required />
 										</div>
 									</div>
 
