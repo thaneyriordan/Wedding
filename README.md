@@ -1,6 +1,6 @@
 Kay + Dave's Wedding Website
 =============================
-This is the wedding website of [Kaitlin Thaney](http://kaythaney.com/) and [David Riordan](http://twitter.com/riordan). Yes, we're total nerds obsessed with open source and open licensing.
+This is the wedding website of [Kaitlin Thaney](http://twitter.com/kaythaney) and [David Riordan](http://twitter.com/riordan). Yes, we're total nerds obsessed with open source and open licensing.
 
 # Getting started with editing
 * Clone the directory to your local computer
